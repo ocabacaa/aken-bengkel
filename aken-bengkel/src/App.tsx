@@ -5,6 +5,7 @@ import Services from "./components/Services";
 import CTA from "./components/CTA";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import FloatingWhatsApp from "./components/FloatingWhatsapp";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <CTA />
       <Contact />
       <Footer />
+      <FloatingWhatsApp />
     </>
   );
 }
